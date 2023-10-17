@@ -115,7 +115,7 @@ const miModulo = (() => {
             } else {
                 alert('La Computadora ganó')
             }
-        }, 100);
+        }, 2000);
     }
     // turno de la computadora
 
